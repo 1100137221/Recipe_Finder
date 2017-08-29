@@ -1,1 +1,1 @@
-###This is a pratice react+redux Project.
+This is a pratice react+redux Project.
